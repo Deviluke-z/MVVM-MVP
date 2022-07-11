@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+    
+
+                 
+                            
+                                                                         
+           
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".view.MainActivity" android:tag="layout/activity_main_0">
+
+        <TextView
+            android:id="@+id/tvTitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_title_1"
+            android:textAlignment="center"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/text_btn_start" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvAppUsage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/item_layout" />
+
+    </LinearLayout>
+         

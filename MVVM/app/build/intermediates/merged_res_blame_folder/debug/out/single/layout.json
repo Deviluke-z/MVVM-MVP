@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.baseproject.app-mergeDebugResources-26:/layout/activity_main.xml",
+        "source": "com.example.baseproject.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.baseproject.app-mergeDebugResources-26:/layout/item_layout.xml",
+        "source": "com.example.baseproject.app-main-29:/layout/item_layout.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="text_title_1">Click the below button to get application usage</string>
+    <string name="text_btn_start">Get app usage</string>
+</resources>
