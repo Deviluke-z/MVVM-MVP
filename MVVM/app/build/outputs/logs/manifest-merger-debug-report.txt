@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Acer\.gradle\caches\transforms-3\828f00dceb594239b7fd3d9682abe18d\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Acer\.gradle\caches\transforms-3\4dbda0adc51ca75b28ba552ae995ffb7\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\2a07ee4d33a1a2505a2e3e484ab570cd\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
@@ -48,39 +48,39 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Acer\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:4:5-38
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.PACKAGE_USAGE_STATS
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:6:5-8:47
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:6:5-8:47
 	tools:ignore
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:8:9-44
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:7:9-62
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:7:9-62
 uses-permission#android.permission.QUERY_ALL_PACKAGES
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:10:5-12:53
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:10:5-12:53
 	tools:ignore
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:12:9-50
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:12:9-50
 	android:name
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:11:9-61
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:11:9-61
 application
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:14:5-33:19
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:15:5-36:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\2a07ee4d33a1a2505a2e3e484ab570cd\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\2a07ee4d33a1a2505a2e3e484ab570cd\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Acer\.gradle\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
@@ -100,43 +100,47 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Acer\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Acer\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:21:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:19:9-54
 	android:roundIcon
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:22:9-54
 	tools:targetApi
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:23:9-29
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:25:9-29
 	android:icon
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:22:9-49
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:24:9-49
 	android:dataExtractionRules
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:16:9-65
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:18:9-65
 activity#com.example.baseproject.view.MainActivity
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:26:9-34:20
 	android:exported
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:25:13-46
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:27:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:32:27-74
+service#com.example.baseproject.services.OnForegroundService
+ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:35:9-65
+	android:name
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:35:18-62
 uses-sdk
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Acer\.gradle\caches\transforms-3\828f00dceb594239b7fd3d9682abe18d\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Acer\.gradle\caches\transforms-3\828f00dceb594239b7fd3d9682abe18d\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Acer\.gradle\caches\transforms-3\4dbda0adc51ca75b28ba552ae995ffb7\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
@@ -225,16 +229,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Acer\.gradle\caches\transforms
 MERGED from [androidx.print:print:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Acer\AndroidStudioProjects\MVVM-MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

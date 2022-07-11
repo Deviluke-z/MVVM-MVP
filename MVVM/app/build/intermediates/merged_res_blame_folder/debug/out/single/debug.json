@@ -64,6 +64,10 @@
         "source": "com.example.baseproject.app-main-29:/xml/backup_rules.xml"
     },
     {
+        "merged": "com.example.baseproject.app-merged_res-27:/layout_foreground_service_layout.xml.flat",
+        "source": "com.example.baseproject.app-main-29:/layout/foreground_service_layout.xml"
+    },
+    {
         "merged": "com.example.baseproject.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.example.baseproject.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },

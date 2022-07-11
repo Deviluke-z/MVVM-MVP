@@ -1697,6 +1697,7 @@
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="text_btn_start">Get app usage</string>
+    <string name="text_notification_title">App on foreground</string>
     <string name="text_title_1">Click the below button to get application usage</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

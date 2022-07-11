@@ -2990,7 +2990,9 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvAppName
+id tvAppOnForeground
 id tvAppUsage
+id tvNotificationTitle
 id tvTitle1
 id unchecked
 id uniform
@@ -3123,6 +3125,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout foreground_service_layout
 layout item_layout
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
@@ -3327,6 +3330,7 @@ string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
 string text_btn_start
+string text_notification_title
 string text_title_1
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
