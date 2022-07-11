@@ -12,6 +12,7 @@
         tools:ignore="QueryAllPackagesPermission" />
 
     <!--android:name=".services.CreateNotification"-->
+    <!--<service android:name=".services.OnForegroundService" />-->
     <application
         
         android:allowBackup="true"
@@ -32,7 +33,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name=".services.OnForegroundService" />
     </application>
 
 </manifest>
