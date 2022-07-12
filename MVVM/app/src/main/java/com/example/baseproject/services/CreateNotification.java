@@ -1,4 +1,3 @@
-/*
 package com.example.baseproject.services;
 
 import android.app.Application;
@@ -28,4 +27,3 @@ public class CreateNotification extends Application {
         }
     }
 }
-*/

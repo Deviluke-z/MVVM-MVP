@@ -9,10 +9,14 @@ color teal_700
 color white
 dimen dimen_app_icon
 dimen dimen_sample_margin
+drawable ic_baseline_autorenew_24
+drawable ic_baseline_close_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon_sample_app
+id btnClose
 id btnStart
+id btnUpdate
 id ivAppIcon
 id rvAppUsage
 id tvAppName

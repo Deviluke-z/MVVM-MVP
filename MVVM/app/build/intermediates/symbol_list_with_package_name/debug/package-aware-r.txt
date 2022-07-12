@@ -2459,6 +2459,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_autorenew_24
+drawable ic_baseline_close_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2614,7 +2616,9 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnClose
 id btnStart
+id btnUpdate
 id buttonPanel
 id cache_measures
 id callMeasure

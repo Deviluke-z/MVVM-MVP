@@ -14,6 +14,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.example.baseproject.R;
 import com.example.baseproject.databinding.ActivityMainBinding;
+import com.example.baseproject.services.ForegroundService;
 import com.example.baseproject.viewmodel.AppUsageViewModel;
 
 public class MainActivity extends AppCompatActivity {
@@ -39,12 +40,19 @@ public class MainActivity extends AppCompatActivity {
 
         if (granted) {
             initView();
+            startService();
             // Log for debug
             /*Log.d("MainActivity", "initView");*/
         } else {
             Intent intent = new Intent(Settings.ACTION_USAGE_ACCESS_SETTINGS);
             startActivity(intent);
         }
+    }
+
+    private void startService() {
+        Intent intent = new Intent(this, ForegroundService.class);
+        startService(intent);
+        Log.d("MainActivity", "Start Service");
     }
 
     // ez binding
