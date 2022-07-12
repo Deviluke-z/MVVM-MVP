@@ -41,10 +41,10 @@ public class ForegroundService extends Service {
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.d(TAG, "onStartCommand()");
 
+        createNotification();
+
         int action = intent.getIntExtra(ACTION_NAME, -1);
         handleAction(action);
-
-        createNotification();
 
         return START_NOT_STICKY;
     }
@@ -99,6 +99,7 @@ public class ForegroundService extends Service {
         Notification notification = new
                 NotificationCompat.Builder(getApplication(), NOTIFICATION_CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_launcher_foreground)
+                .setCustomBigContentView(remoteViews)
                 .setCustomContentView(remoteViews)
                 .build();
 

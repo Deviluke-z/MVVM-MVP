@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.baseproject.app-merged_res-27:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.baseproject.app-pngs-22:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
         "merged": "com.example.baseproject.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.baseproject.app-main-29:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
@@ -22,10 +26,6 @@
     {
         "merged": "com.example.baseproject.app-merged_res-27:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "com.example.baseproject.app-main-29:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.baseproject.app-merged_res-27:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.baseproject.app-main-29:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
         "merged": "com.example.baseproject.app-merged_res-27:/drawable_ic_baseline_autorenew_24.xml.flat",

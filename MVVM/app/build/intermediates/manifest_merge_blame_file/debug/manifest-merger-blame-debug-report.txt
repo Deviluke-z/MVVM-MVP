@@ -5,7 +5,7 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="31"
+8        android:minSdkVersion="22"
 8-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
 9-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml
@@ -31,63 +31,62 @@
 19        android:dataExtractionRules="@xml/data_extraction_rules"
 19-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:19:9-65
 20        android:debuggable="true"
-21        android:extractNativeLibs="false"
-22        android:fullBackupContent="@xml/backup_rules"
-22-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:20:9-54
-23        android:icon="@mipmap/ic_launcher"
-23-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:21:9-43
-24        android:label="@string/app_name"
-24-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:22:9-41
-25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:23:9-54
-26        android:supportsRtl="true"
-26-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:24:9-35
-27        android:testOnly="true"
-28        android:theme="@style/Theme.BaseProject" >
-28-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:25:9-49
-29        <activity
-29-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:27:9-35:20
-30            android:name="com.example.baseproject.view.MainActivity"
-30-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:28:13-46
-31            android:exported="true" >
-31-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:29:13-36
-32            <intent-filter>
-32-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:30:13-34:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:31:17-69
-33-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:31:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:33:17-77
-35-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:33:27-74
-36            </intent-filter>
-37        </activity>
-38
-39        <service android:name="com.example.baseproject.services.ForegroundService" />
-39-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:36:9-63
-39-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:36:18-60
-40
-41        <provider
-41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-42            android:name="androidx.startup.InitializationProvider"
-42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-43            android:authorities="com.example.baseproject.androidx-startup"
-43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-44            android:exported="false" >
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-45            <meta-data
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-47                android:value="androidx.startup" />
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-48            <meta-data
-48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-50                android:value="androidx.startup" />
-50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-51        </provider>
-52    </application>
-53
-54</manifest>
+21        android:fullBackupContent="@xml/backup_rules"
+21-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:20:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:21:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:22:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:23:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:24:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.BaseProject" >
+27-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:25:9-49
+28        <activity
+28-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:27:9-35:20
+29            android:name="com.example.baseproject.view.MainActivity"
+29-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:28:13-46
+30            android:exported="true" >
+30-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:29:13-36
+31            <intent-filter>
+31-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:30:13-34:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:31:17-69
+32-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:31:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:33:17-77
+34-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:33:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <service android:name="com.example.baseproject.services.ForegroundService" />
+38-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:36:9-63
+38-->C:\Users\Acer\MVVM-MVP\MVVM\app\src\main\AndroidManifest.xml:36:18-60
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+42            android:authorities="com.example.baseproject.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Acer\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>
